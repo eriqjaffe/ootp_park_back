@@ -1,0 +1,3 @@
+This is a simple tool to convert parks using .webp textures to .png textures for older build of OOTP Baseball prior to 27.5.78.
+
+Just drop the executable in the ballpark's folder and run it.  It will convert all the .webp files it finds to .png and update the .mtl file accordingly.
