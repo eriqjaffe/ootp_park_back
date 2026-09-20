@@ -51,6 +51,9 @@ func main() {
 	} else {
 		fmt.Println("\nAll operations completed successfully!")
 	}
+
+	fmt.Println("\nPress Enter to exit...")
+	fmt.Scanln()
 }
 
 func convertAndDelete(webpPath string) error {
